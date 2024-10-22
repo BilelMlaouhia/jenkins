@@ -12,3 +12,4 @@ EXPOSE 8082
 
 # Run the Spring Boot app
 ENTRYPOINT ["java", "-jar", "/app/app.jar"]
+
